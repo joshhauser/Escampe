@@ -29,4 +29,4 @@ make
 ./bin/main
 ```
 
-> Made with @Poulpy
+> Made with [Poulpy](https://github.com/Poulpy)
