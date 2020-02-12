@@ -28,3 +28,5 @@ make
 ```bash
 ./bin/main
 ```
+
+> Made with @Poulpy
